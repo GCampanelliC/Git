@@ -20,3 +20,8 @@ git remote rm origin
 
 Deu "!rejected"
 git push origin master --force
+
+Nova branch 
+
+git checkout -b "Botão"
+
